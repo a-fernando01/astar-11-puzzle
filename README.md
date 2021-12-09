@@ -3,6 +3,7 @@
 A-Star Search Algorithm Solution for 11 Puzzle Problem
 
 Input File Format:
+
 2  0  6  4  
 3  10 7  9  
 11 5  8  1  
@@ -22,6 +23,7 @@ To Run:
 Results will be displayed in specified output file format
 
 Output File:
+
 2  0  6  4  
 3  10 7  9  
 11 5  8  1  
