@@ -21,8 +21,10 @@ Input File Format:
 5) When prompted, enter weight
 
 Results will be displayed in specified output file format
-```bash
+
 Output File:
+
+```bash
 
 2  0  6  4  
 3  10 7  9  
